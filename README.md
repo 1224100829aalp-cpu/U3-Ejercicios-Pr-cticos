@@ -9,7 +9,7 @@
 |-|-|-|
 |Ejercicio 1| [Codigo DOM](https://github.com/1224100829aalp-cpu/U3-Ejercicios-Pr-cticos/blob/main/Ejercicio1.md)|[Video 1]()|
 |Ejercicio 2| [App Dinamica ](https://github.com/1224100829aalp-cpu/U3-Ejercicios-Pr-cticos/blob/main/Ejercicio2.md)|[Video 2]()|
-|Ejercicio 3| [App Personal ]()|[Video 3]()|
+|Ejercicio 3| [App Personal ](https://github.com/1224100829aalp-cpu/U3-Ejercicios-Pr-cticos/blob/main/Ejercicio3.md)|[Video 3]()|
 
 
 
